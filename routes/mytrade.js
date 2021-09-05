@@ -45,9 +45,6 @@ router.post('/recv', function(req, res) {
     });
 });
 
-// router.post('/show', function(req, res) {
-//     console.log("눈누난나나나나", data);
-// });
 
 
 module.exports = router;
